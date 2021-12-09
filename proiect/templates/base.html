@@ -9,6 +9,7 @@
                     <a href="{% url 'aplicatie1:listare' %}">Location</a>
                     <a href="{% url 'aplicatie2:lista' %}">Company</a>
                     <a href="{% url 'aplicatie2:update_profile' request.user.id %}">User profile</a>
+                    <a href="{% url 'aplicatie2:adauga_utilizator' %}">New user</a>
                     {% if ready_to_work is False %}
                          <a href="{% url 'aplicatie2:oprire_pontaj' %}">Oprire pontaj</a>
                     {% else %}

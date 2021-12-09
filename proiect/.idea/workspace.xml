@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a0ccc55-9066-4a44-b5a9-84e5300ce469" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aplicatie1/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/emails/invite_user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/proiect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/proiect.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplicatie1/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicatie1/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplicatie1/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicatie1/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplicatie1/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicatie1/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplicatie1/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicatie1/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplicatie1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicatie1/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proiect/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/proiect/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proiect/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/proiect/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proiect/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/proiect/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proiect/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/proiect/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicatie2/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicatie2/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicatie2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicatie2/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicatie2/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicatie2/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +37,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -88,6 +79,11 @@
       <workItem from="1638462365686" duration="7937000" />
       <workItem from="1638795430707" duration="8000" />
       <workItem from="1638795457584" duration="15000" />
+      <workItem from="1638895866089" duration="656000" />
+      <workItem from="1638896573565" duration="264000" />
+      <workItem from="1638896855751" duration="6310000" />
+      <workItem from="1639067777416" duration="126000" />
+      <workItem from="1639067930963" duration="2000" />
     </task>
     <servers />
   </component>
